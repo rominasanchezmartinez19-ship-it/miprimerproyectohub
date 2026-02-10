@@ -7,3 +7,4 @@ while True:
         break
     except ValueError:
                    print("Error: Debes ingresar numeros validos")
+        print("Hola mundo")
